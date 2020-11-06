@@ -1,1 +1,1 @@
-# DATA4319-Machine-Learning Class' Project
+# DATA4319-Machine-Learning Project
