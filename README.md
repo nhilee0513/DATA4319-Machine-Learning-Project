@@ -5,13 +5,13 @@ The purpose of this repository is storing all my project for the DATA 4319 - Mac
 
 ### The Components of Learning
 
-Supervised Learning
-Unsupervised Learning
-Semisupervised Learning
-Feasibility of Learning
-Measuring Error
+- Supervised Learning
+- Unsupervised Learning
+- Semisupervised Learning
+- Feasibility of Learning
+- Measuring Error
 
-## Supervised learning: Where the model uses labeled target data to make predictions
+### Supervised learning: Where the model uses labeled target data to make predictions
 - Decision Trees and Regression Trees
 - Linear Regression
 - Gradient Descent & Logistic Regression                
@@ -29,13 +29,12 @@ Measuring Error
 - Autoencoding
 
 ## Instructor:
-Randy Davila, Ph.D.
-Assistant Professor of Data Science
-Department of Mathematics and Statistics
-One Main, Houston TX 77002
-Email: DavilaR@uhd.edu
+- Randy Davila, Ph.D.
+- Assistant Professor of Data Science
+- Department of Mathematics and Statistics
+- One Main, Houston TX 77002
+- Email: DavilaR@uhd.edu
 
 ### Course Description:
-This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of machine learning. Topics include, but are not limited to:
-
+This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of machine learning.
 
