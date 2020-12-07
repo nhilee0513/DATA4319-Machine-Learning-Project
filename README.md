@@ -16,8 +16,7 @@
 - Gradient Descent & Logistic Regression                
 - The Perceptron Learning Algorithm
 - K-Nearest Neighbors Algorithm
-- Gradient Descent & Logistic Regression
-- Neural Nets
+- Neural Networks
 
 
 ### Unsupervised learning: Where the model identifies patterns without any labeled target data
@@ -37,3 +36,6 @@
 ### Course Description:
 This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of machine learning.
 
+### Acknowledgement:
+I would like to express my thanks to Dr. Randy Davila, the 
+Department of Mathematics and Statistics, College of Science and Technology, University of Houston Downtown, Houston, TX, 77002 for the tremendous support and amazing lessons that he taught us throughout the course Fall 2020. 
